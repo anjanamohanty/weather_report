@@ -4,6 +4,7 @@ require 'minitest/pride'
 require './conditions.rb'
 require './forecast.rb'
 require './astronomy.rb'
+require './alerts.rb'
 
 class Conditions
   def initialize
@@ -23,12 +24,19 @@ class Astronomy
   end
 end
 
+class Alerts
+  def initialize
+    @response = JSON.parse(File.read("./alerts.json"))
+  end
+end
+
 class ReportTest < Minitest::Test
 
   def test_classes
     assert Conditions
     assert Forecast
     assert Astronomy
+    assert Alerts
   end
 
   # Current conditions at that location.
@@ -56,6 +64,10 @@ class ReportTest < Minitest::Test
   end
 
   # Any current weather alerts.
+  def test_can_get_current_weather_alerts
+    a = Alerts.new
+    assert_equal "Weather Alerts:\nFlood Warning: From 3:59 am CST on February 23, 2016 to 6:00 AM CST on February 26, 2016\n", a.get_alerts
+  end
 
   # A list of all active hurricanes (anywhere)
 

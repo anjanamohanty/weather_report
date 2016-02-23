@@ -1,0 +1,33 @@
+{
+  "response": {
+    "version":"0.1",
+    "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+    "features": {
+      "alerts": 1
+    }
+	},
+  "query_zone": "060",
+	"alerts": [
+		{
+		"type": "FLO",
+		"description": "Flood Warning",
+		"date": "3:59 am CST on February 23, 2016",
+		"date_epoch": "1456221540",
+		"expires": "6:00 AM CST on February 26, 2016",
+		"expires_epoch": "1456488000",
+		"tz_short":"CST",
+		"tz_long":"America/Chicago",
+		"message": "\u000A...Flood Warning remains in effect until Thursday morning...\u000A\u000AThe Flood Warning continues for\u000A the Des Moines River at Des Moines se 6th St...or from below the \u000A center street dam...to Runnells.\u000A* Until Thursday morning.\u000A* At 3:00 am Tuesday the stage was 23.6 feet...or 0.4 feet below \u000A flood stage.\u000A* Flood stage is 24.0 feet.\u000A* No flooding is occurring and minor flooding is forecast.\u000A* Forecast...rise to flood stage midday today. Continue rising to \u000A 24.3 feet...or 0.3 feet above flood stage...after midnight \u000A tonight. Then begin falling and go below flood stage Thursday \u000A morning.\u000A* Impact...at 24.0 feet...the bike trail is closed east of Water \u000A Street. Portions of other bike trails are also affected.\u000A\u000A\u000ALat...Lon 4159 9356 4152 9333 4145 9333 4154 9356\u000A 4159 9366 4159 9356 \u000A\u000A\u000A\u000A\u000A",
+		"phenomena": "FL",
+		"significance": "W",
+		"ZONES": [
+  		{
+  		"state":"IA",
+  		"ZONE":"060"
+  		}
+		],
+		"StormBased": {
+		}
+		}
+	]
+}
