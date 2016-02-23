@@ -3,6 +3,7 @@ require 'minitest/pride'
 
 require './conditions.rb'
 require './forecast.rb'
+require './astronomy.rb'
 
 class Conditions
   def initialize
@@ -16,11 +17,18 @@ class Forecast
   end
 end
 
+class Astronomy
+  def initialize
+    @response = JSON.parse(File.read("./astronomy.json"))
+  end
+end
+
 class ReportTest < Minitest::Test
 
   def test_classes
     assert Conditions
     assert Forecast
+    assert Astronomy
   end
 
   # Current conditions at that location.
@@ -41,6 +49,11 @@ class ReportTest < Minitest::Test
   end
 
   # Sunrise and sunset times.
+  def test_can_get_sunrise_and_sunset_times
+    a = Astronomy.new
+    assert_equal "Sunrise: 6:54 AM", a.sunrise
+    assert_equal "Sunset: 6:04 PM", a.sunset
+  end
 
   # Any current weather alerts.
 
