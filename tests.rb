@@ -5,6 +5,7 @@ require './conditions.rb'
 require './forecast.rb'
 require './astronomy.rb'
 require './alerts.rb'
+require './hurricane.rb'
 
 class Conditions
   def initialize
@@ -27,6 +28,12 @@ end
 class Alerts
   def initialize
     @response = JSON.parse(File.read("./alerts.json"))
+  end
+end
+
+class Hurricane
+  def initialize
+    @response = JSON.parse(File.read("./hurricane.json"))
   end
 end
 
@@ -70,5 +77,10 @@ class ReportTest < Minitest::Test
   end
 
   # A list of all active hurricanes (anywhere)
+  def test_can_get_active_hurricanes
+    h = Hurricane.new
+    h.list
+    assert_equal "Current Hurricanes:\nInvest 90C\nTropical Cyclone Winston\n", h.list
+  end
 
 end

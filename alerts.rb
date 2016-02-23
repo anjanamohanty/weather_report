@@ -12,5 +12,4 @@ class Alerts
     end
     alerts
   end
-
 end

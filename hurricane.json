@@ -1,0 +1,2709 @@
+
+{
+  "response": {
+    "version":"0.1",
+    "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+    "features": {
+      "currenthurricane": 1
+    }
+	},
+  "currenthurricane": [
+	{
+		"stormInfo": {
+		"stormName":"90C",
+		"stormName_Nice":"Invest 90C",
+		"stormNumber":"cp201690",
+		"requesturl":"/hurricane/central-pacific/2016/Invest-90C",
+		"wuiurl":"http://www.wunderground.com/hurricane/central-pacific/2016/Invest-90C"
+		},
+		"Current": {
+		"lat":3.7,
+		"lon":-171.3,
+		"SaffirSimpsonCategory":-4,
+		"Category":"Invest",
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456142400","pretty": "7:00 AM EST on February 22, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456142400","pretty": "12:00 PM GMT on February 22, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":30,
+		"Mph":35,
+		"Kph":55
+		},
+		"WindGust":{
+		"Kts":null,
+		"Mph":null,
+		"Kph":null
+		},
+		"Fspeed":{
+		"Kts":3,
+		"Mph":5,
+		"Kph":5
+		},
+		"Movement":{
+		"Degrees":"25",
+		"Text":"NNE"
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"WindRadius":{
+		"34":{
+		},
+		"50":{
+		},
+		"64":{
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		"forecast": [
+		],
+		"ExtendedForecast": [
+		],
+		"track": [
+		{
+		"SaffirSimpsonCategory":-4,
+		"Category":"Invest",
+		"lat":3.7,
+		"lon":-171.3,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456142400","pretty": "7:00 AM EST on February 22, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456142400","pretty": "12:00 PM GMT on February 22, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":30,
+		"Mph":35,
+		"Kph":55
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"WindRadius":{
+		"34":{
+		},
+		"50":{
+		},
+		"64":{
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		}
+		]
+	}
+,
+	{
+		"stormInfo": {
+		"stormName":"Winston",
+		"stormName_Nice":"Tropical Cyclone Winston",
+		"stormNumber":"sp201611",
+		"requesturl":"/hurricane/south-pacific/2016/Tropical-Cyclone-Winston",
+		"wuiurl":"http://www.wunderground.com/hurricane/south-pacific/2016/Tropical-Cyclone-Winston"
+		},
+		"Current": {
+		"lat":-19.8,
+		"lon":173.2,
+		"SaffirSimpsonCategory":1,
+		"Category":"Tropical Cyclone",
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "23","mday_padded": "23","yday": "53","epoch": "1456207200","pretty": "1:00 AM EST on February 23, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "23","mday_padded": "23","yday": "53","epoch": "1456207200","pretty": "6:00 AM GMT on February 23, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":75,
+		"Mph":85,
+		"Kph":140
+		},
+		"WindGust":{
+		"Kts":90,
+		"Mph":105,
+		"Kph":165
+		},
+		"Fspeed":{
+		"Kts":7,
+		"Mph":8,
+		"Kph":7
+		},
+		"Movement":{
+		"Degrees":"150",
+		"Text":"SSE"
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":135
+		,"SW":120
+		,"NW":100
+		},
+		"50":{
+		"NE":60
+		,"SE":70
+		,"SW":55
+		,"NW":55
+		},
+		"64":{
+		"NE":35
+		,"SE":35
+		,"SW":35
+		,"NW":35
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		"forecast": [
+		{
+		"ForecastHour":"12HR",
+		"SaffirSimpsonCategory":1,
+		"lat":-21.5,
+		"lon":174.1,"Category":"1",
+		"Time": {
+		"hour": "13","hour_padded": "13","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "23","mday_padded": "23","yday": "53","epoch": "1456250400","pretty": "1:00 PM EST on February 23, 2016","civil": "1:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"hour": "18","hour_padded": "18","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "23","mday_padded": "23","yday": "53","epoch": "1456250400","pretty": "6:00 PM GMT on February 23, 2016","civil": "6:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":70,
+		"Mph":80,
+		"Kph":130
+		},
+		"WindGust":{
+		"Kts":85,
+		"Mph":100,
+		"Kph":160
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":135
+		,"SW":120
+		,"NW":100
+		},
+		"50":{
+		"NE":60
+		,"SE":70
+		,"SW":55
+		,"NW":55
+		},
+		"64":{
+		"NE":35
+		,"SE":35
+		,"SW":35
+		,"NW":35
+		}
+		},
+		"ErrorRadius":"0.6"
+		},
+		{
+		"ForecastHour":"24HR",
+		"SaffirSimpsonCategory":0,
+		"lat":-23.1,
+		"lon":174.2,"Category":"ts",
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "24","mday_padded": "24","yday": "54","epoch": "1456293600","pretty": "1:00 AM EST on February 24, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "24","mday_padded": "24","yday": "54","epoch": "1456293600","pretty": "6:00 AM GMT on February 24, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":60,
+		"Mph":70,
+		"Kph":110
+		},
+		"WindGust":{
+		"Kts":75,
+		"Mph":85,
+		"Kph":140
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":90
+		,"SE":125
+		,"SW":110
+		,"NW":90
+		},
+		"50":{
+		"NE":50
+		,"SE":65
+		,"SW":50
+		,"NW":50
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"ErrorRadius":"1.2"
+		},
+		{
+		"ForecastHour":"36HR",
+		"SaffirSimpsonCategory":0,
+		"lat":-24.5,
+		"lon":173.1,"Category":"ts",
+		"Time": {
+		"hour": "13","hour_padded": "13","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "24","mday_padded": "24","yday": "54","epoch": "1456336800","pretty": "1:00 PM EST on February 24, 2016","civil": "1:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"hour": "18","hour_padded": "18","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "24","mday_padded": "24","yday": "54","epoch": "1456336800","pretty": "6:00 PM GMT on February 24, 2016","civil": "6:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":50,
+		"Mph":60,
+		"Kph":95
+		},
+		"WindGust":{
+		"Kts":65,
+		"Mph":75,
+		"Kph":120
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":80
+		,"SE":115
+		,"SW":110
+		,"NW":80
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"ErrorRadius":"1.7"
+		},
+		{
+		"ForecastHour":"48HR",
+		"SaffirSimpsonCategory":0,
+		"lat":-25.8,
+		"lon":170.7,"Category":"ts",
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "25","mday_padded": "25","yday": "55","epoch": "1456380000","pretty": "1:00 AM EST on February 25, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "25","mday_padded": "25","yday": "55","epoch": "1456380000","pretty": "6:00 AM GMT on February 25, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":45,
+		"Mph":50,
+		"Kph":85
+		},
+		"WindGust":{
+		"Kts":55,
+		"Mph":65,
+		"Kph":100
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":80
+		,"SE":115
+		,"SW":110
+		,"NW":80
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"ErrorRadius":"2.2"
+		},
+		{
+		"ForecastHour":"72HR",
+		"SaffirSimpsonCategory":0,
+		"lat":-27.9,
+		"lon":164.2,"Category":"ts",
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "26","mday_padded": "26","yday": "56","epoch": "1456466400","pretty": "1:00 AM EST on February 26, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "26","mday_padded": "26","yday": "56","epoch": "1456466400","pretty": "6:00 AM GMT on February 26, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":35,
+		"Mph":40,
+		"Kph":65
+		},
+		"WindGust":{
+		"Kts":45,
+		"Mph":50,
+		"Kph":85
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"ErrorRadius":"3.2"
+		}
+		],
+		"ExtendedForecast": [
+		],
+		"track": [
+		{
+		"SaffirSimpsonCategory":0,
+		"Category":"Tropical Cyclone",
+		"lat":-15.3,
+		"lon":170.9,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "10","mday_padded": "10","yday": "40","epoch": "1455105600","pretty": "7:00 AM EST on February 10, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "10","mday_padded": "10","yday": "40","epoch": "1455105600","pretty": "12:00 PM GMT on February 10, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":35,
+		"Mph":40,
+		"Kph":65
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":0,
+		"Category":"Tropical Cyclone",
+		"lat":-15.7,
+		"lon":171.1,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "10","mday_padded": "10","yday": "40","epoch": "1455148800","pretty": "7:00 PM EST on February 10, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "11","mday_padded": "11","yday": "41","epoch": "1455148800","pretty": "12:00 AM GMT on February 11, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":40,
+		"Mph":45,
+		"Kph":75
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":120
+		,"SE":120
+		,"SW":100
+		,"NW":95
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":0,
+		"Category":"Tropical Cyclone",
+		"lat":-16.7,
+		"lon":171.6,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "11","mday_padded": "11","yday": "41","epoch": "1455192000","pretty": "7:00 AM EST on February 11, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "11","mday_padded": "11","yday": "41","epoch": "1455192000","pretty": "12:00 PM GMT on February 11, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":55,
+		"Mph":65,
+		"Kph":100
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":70
+		,"SE":55
+		,"SW":55
+		,"NW":50
+		},
+		"50":{
+		"NE":25
+		,"SE":20
+		,"SW":25
+		,"NW":15
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":1,
+		"Category":"Tropical Cyclone",
+		"lat":-18,
+		"lon":171.6,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "11","mday_padded": "11","yday": "41","epoch": "1455235200","pretty": "7:00 PM EST on February 11, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "12","mday_padded": "12","yday": "42","epoch": "1455235200","pretty": "12:00 AM GMT on February 12, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":65,
+		"Mph":75,
+		"Kph":120
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":65
+		,"SE":55
+		,"SW":55
+		,"NW":50
+		},
+		"50":{
+		"NE":25
+		,"SE":20
+		,"SW":25
+		,"NW":15
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":3,
+		"Category":"Tropical Cyclone",
+		"lat":-19.7,
+		"lon":171.5,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "12","mday_padded": "12","yday": "42","epoch": "1455278400","pretty": "7:00 AM EST on February 12, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "12","mday_padded": "12","yday": "42","epoch": "1455278400","pretty": "12:00 PM GMT on February 12, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":105,
+		"Mph":120,
+		"Kph":195
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":90
+		,"SE":120
+		,"SW":120
+		,"NW":90
+		},
+		"50":{
+		"NE":30
+		,"SE":50
+		,"SW":50
+		,"NW":30
+		},
+		"64":{
+		"NE":10
+		,"SE":20
+		,"SW":20
+		,"NW":10
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":3,
+		"Category":"Tropical Cyclone",
+		"lat":-22.2,
+		"lon":171.8,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "12","mday_padded": "12","yday": "42","epoch": "1455321600","pretty": "7:00 PM EST on February 12, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "13","mday_padded": "13","yday": "43","epoch": "1455321600","pretty": "12:00 AM GMT on February 13, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":105,
+		"Mph":120,
+		"Kph":195
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":140
+		,"SE":145
+		,"SW":120
+		,"NW":125
+		},
+		"50":{
+		"NE":85
+		,"SE":90
+		,"SW":70
+		,"NW":70
+		},
+		"64":{
+		"NE":45
+		,"SE":50
+		,"SW":50
+		,"NW":45
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-24.2,
+		"lon":172.9,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "13","mday_padded": "13","yday": "43","epoch": "1455364800","pretty": "7:00 AM EST on February 13, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "13","mday_padded": "13","yday": "43","epoch": "1455364800","pretty": "12:00 PM GMT on February 13, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":95,
+		"Mph":110,
+		"Kph":175
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":90
+		,"SW":80
+		,"NW":65
+		},
+		"50":{
+		"NE":55
+		,"SE":35
+		,"SW":35
+		,"NW":35
+		},
+		"64":{
+		"NE":20
+		,"SE":20
+		,"SW":20
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":1,
+		"Category":"Tropical Cyclone",
+		"lat":-25.3,
+		"lon":174.9,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "13","mday_padded": "13","yday": "43","epoch": "1455408000","pretty": "7:00 PM EST on February 13, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "14","mday_padded": "14","yday": "44","epoch": "1455408000","pretty": "12:00 AM GMT on February 14, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":75,
+		"Mph":85,
+		"Kph":140
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":130
+		,"SE":130
+		,"SW":90
+		,"NW":120
+		},
+		"50":{
+		"NE":70
+		,"SE":70
+		,"SW":50
+		,"NW":50
+		},
+		"64":{
+		"NE":40
+		,"SE":40
+		,"SW":35
+		,"NW":35
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":1,
+		"Category":"Tropical Cyclone",
+		"lat":-25,
+		"lon":177.6,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "14","mday_padded": "14","yday": "44","epoch": "1455451200","pretty": "7:00 AM EST on February 14, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "14","mday_padded": "14","yday": "44","epoch": "1455451200","pretty": "12:00 PM GMT on February 14, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":65,
+		"Mph":75,
+		"Kph":120
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":130
+		,"SW":120
+		,"NW":105
+		},
+		"50":{
+		"NE":50
+		,"SE":50
+		,"SW":50
+		,"NW":50
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":0,
+		"Category":"Tropical Cyclone",
+		"lat":-23,
+		"lon":179.6,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "14","mday_padded": "14","yday": "44","epoch": "1455494400","pretty": "7:00 PM EST on February 14, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "15","mday_padded": "15","yday": "45","epoch": "1455494400","pretty": "12:00 AM GMT on February 15, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":60,
+		"Mph":70,
+		"Kph":110
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":140
+		,"SW":130
+		,"NW":110
+		},
+		"50":{
+		"NE":60
+		,"SE":60
+		,"SW":70
+		,"NW":70
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":0,
+		"Category":"Tropical Cyclone",
+		"lat":-20.6,
+		"lon":-178.1,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "15","mday_padded": "15","yday": "45","epoch": "1455537600","pretty": "7:00 AM EST on February 15, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "15","mday_padded": "15","yday": "45","epoch": "1455537600","pretty": "12:00 PM GMT on February 15, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":50,
+		"Mph":60,
+		"Kph":95
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":80
+		,"SE":150
+		,"SW":95
+		,"NW":130
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":0,
+		"Category":"Tropical Cyclone",
+		"lat":-19.2,
+		"lon":-175.5,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "15","mday_padded": "15","yday": "45","epoch": "1455580800","pretty": "7:00 PM EST on February 15, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "16","mday_padded": "16","yday": "46","epoch": "1455580800","pretty": "12:00 AM GMT on February 16, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":45,
+		"Mph":50,
+		"Kph":85
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":160
+		,"SE":170
+		,"SW":95
+		,"NW":160
+		},
+		"50":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":0,
+		"Category":"Tropical Cyclone",
+		"lat":-18.5,
+		"lon":-174.5,
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "16","mday_padded": "16","yday": "46","epoch": "1455602400","pretty": "1:00 AM EST on February 16, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "16","mday_padded": "16","yday": "46","epoch": "1455602400","pretty": "6:00 AM GMT on February 16, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":55,
+		"Mph":65,
+		"Kph":100
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":160
+		,"SE":170
+		,"SW":95
+		,"NW":160
+		},
+		"50":{
+		"NE":20
+		,"SE":20
+		,"SW":20
+		,"NW":20
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":1,
+		"Category":"Tropical Cyclone",
+		"lat":-17.9,
+		"lon":-173.6,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "16","mday_padded": "16","yday": "46","epoch": "1455624000","pretty": "7:00 AM EST on February 16, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "16","mday_padded": "16","yday": "46","epoch": "1455624000","pretty": "12:00 PM GMT on February 16, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":65,
+		"Mph":75,
+		"Kph":120
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":70
+		,"SE":170
+		,"SW":100
+		,"NW":100
+		},
+		"50":{
+		"NE":30
+		,"SE":45
+		,"SW":45
+		,"NW":40
+		},
+		"64":{
+		"NE":null
+		,"SE":null
+		,"SW":null
+		,"NW":null
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":1,
+		"Category":"Tropical Cyclone",
+		"lat":-17.5,
+		"lon":-172.4,
+		"Time": {
+		"hour": "13","hour_padded": "13","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "16","mday_padded": "16","yday": "46","epoch": "1455645600","pretty": "1:00 PM EST on February 16, 2016","civil": "1:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"hour": "18","hour_padded": "18","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "16","mday_padded": "16","yday": "46","epoch": "1455645600","pretty": "6:00 PM GMT on February 16, 2016","civil": "6:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":75,
+		"Mph":85,
+		"Kph":140
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-17.5,
+		"lon":-171.8,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "16","mday_padded": "16","yday": "46","epoch": "1455667200","pretty": "7:00 PM EST on February 16, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "17","mday_padded": "17","yday": "47","epoch": "1455667200","pretty": "12:00 AM GMT on February 17, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":90,
+		"Mph":105,
+		"Kph":165
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-17.5,
+		"lon":-171.2,
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "17","mday_padded": "17","yday": "47","epoch": "1455688800","pretty": "1:00 AM EST on February 17, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "17","mday_padded": "17","yday": "47","epoch": "1455688800","pretty": "6:00 AM GMT on February 17, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":90,
+		"Mph":105,
+		"Kph":165
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-17.5,
+		"lon":-171,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "17","mday_padded": "17","yday": "47","epoch": "1455710400","pretty": "7:00 AM EST on February 17, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "17","mday_padded": "17","yday": "47","epoch": "1455710400","pretty": "12:00 PM GMT on February 17, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":90,
+		"Mph":105,
+		"Kph":165
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-17.2,
+		"lon":-170.8,
+		"Time": {
+		"hour": "13","hour_padded": "13","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "17","mday_padded": "17","yday": "47","epoch": "1455732000","pretty": "1:00 PM EST on February 17, 2016","civil": "1:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"hour": "18","hour_padded": "18","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "17","mday_padded": "17","yday": "47","epoch": "1455732000","pretty": "6:00 PM GMT on February 17, 2016","civil": "6:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":95,
+		"Mph":110,
+		"Kph":175
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":3,
+		"Category":"Tropical Cyclone",
+		"lat":-17.1,
+		"lon":-171.1,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "17","mday_padded": "17","yday": "47","epoch": "1455753600","pretty": "7:00 PM EST on February 17, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Wednesday","weekday_name_night": "Wednesday Night","weekday_name_abbrev": "Wed","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "18","mday_padded": "18","yday": "48","epoch": "1455753600","pretty": "12:00 AM GMT on February 18, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":105,
+		"Mph":120,
+		"Kph":195
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-17.1,
+		"lon":-171.6,
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "18","mday_padded": "18","yday": "48","epoch": "1455775200","pretty": "1:00 AM EST on February 18, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "18","mday_padded": "18","yday": "48","epoch": "1455775200","pretty": "6:00 AM GMT on February 18, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":95,
+		"Mph":110,
+		"Kph":175
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":3,
+		"Category":"Tropical Cyclone",
+		"lat":-17.1,
+		"lon":-172.3,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "18","mday_padded": "18","yday": "48","epoch": "1455796800","pretty": "7:00 AM EST on February 18, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "18","mday_padded": "18","yday": "48","epoch": "1455796800","pretty": "12:00 PM GMT on February 18, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":100,
+		"Mph":115,
+		"Kph":185
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":3,
+		"Category":"Tropical Cyclone",
+		"lat":-17.4,
+		"lon":-173.3,
+		"Time": {
+		"hour": "13","hour_padded": "13","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "18","mday_padded": "18","yday": "48","epoch": "1455818400","pretty": "1:00 PM EST on February 18, 2016","civil": "1:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"hour": "18","hour_padded": "18","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "18","mday_padded": "18","yday": "48","epoch": "1455818400","pretty": "6:00 PM GMT on February 18, 2016","civil": "6:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":105,
+		"Mph":120,
+		"Kph":195
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":3,
+		"Category":"Tropical Cyclone",
+		"lat":-17.5,
+		"lon":-174.6,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "18","mday_padded": "18","yday": "48","epoch": "1455840000","pretty": "7:00 PM EST on February 18, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Thursday","weekday_name_night": "Thursday Night","weekday_name_abbrev": "Thu","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "19","mday_padded": "19","yday": "49","epoch": "1455840000","pretty": "12:00 AM GMT on February 19, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":110,
+		"Mph":125,
+		"Kph":205
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":120
+		,"SW":110
+		,"NW":120
+		},
+		"50":{
+		"NE":40
+		,"SE":50
+		,"SW":50
+		,"NW":40
+		},
+		"64":{
+		"NE":15
+		,"SE":30
+		,"SW":10
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":4,
+		"Category":"Tropical Cyclone",
+		"lat":-17.5,
+		"lon":-175.9,
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "19","mday_padded": "19","yday": "49","epoch": "1455861600","pretty": "1:00 AM EST on February 19, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "19","mday_padded": "19","yday": "49","epoch": "1455861600","pretty": "6:00 AM GMT on February 19, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":125,
+		"Mph":145,
+		"Kph":230
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":130
+		,"SE":130
+		,"SW":120
+		,"NW":120
+		},
+		"50":{
+		"NE":50
+		,"SE":50
+		,"SW":40
+		,"NW":40
+		},
+		"64":{
+		"NE":20
+		,"SE":20
+		,"SW":20
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":4,
+		"Category":"Tropical Cyclone",
+		"lat":-17.3,
+		"lon":-177.5,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "19","mday_padded": "19","yday": "49","epoch": "1455883200","pretty": "7:00 AM EST on February 19, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "19","mday_padded": "19","yday": "49","epoch": "1455883200","pretty": "12:00 PM GMT on February 19, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":125,
+		"Mph":145,
+		"Kph":230
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":130
+		,"SE":130
+		,"SW":120
+		,"NW":120
+		},
+		"50":{
+		"NE":50
+		,"SE":50
+		,"SW":40
+		,"NW":40
+		},
+		"64":{
+		"NE":20
+		,"SE":20
+		,"SW":20
+		,"NW":20
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":5,
+		"Category":"Tropical Cyclone",
+		"lat":-17.2,
+		"lon":-178.9,
+		"Time": {
+		"hour": "13","hour_padded": "13","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "19","mday_padded": "19","yday": "49","epoch": "1455904800","pretty": "1:00 PM EST on February 19, 2016","civil": "1:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"hour": "18","hour_padded": "18","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "19","mday_padded": "19","yday": "49","epoch": "1455904800","pretty": "6:00 PM GMT on February 19, 2016","civil": "6:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":145,
+		"Mph":165,
+		"Kph":270
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":120
+		,"SE":150
+		,"SW":160
+		,"NW":140
+		},
+		"50":{
+		"NE":60
+		,"SE":60
+		,"SW":75
+		,"NW":75
+		},
+		"64":{
+		"NE":20
+		,"SE":20
+		,"SW":35
+		,"NW":35
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":5,
+		"Category":"Tropical Cyclone",
+		"lat":-17.2,
+		"lon":-179.9,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "19","mday_padded": "19","yday": "49","epoch": "1455926400","pretty": "7:00 PM EST on February 19, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "20","mday_padded": "20","yday": "50","epoch": "1455926400","pretty": "12:00 AM GMT on February 20, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":160,
+		"Mph":185,
+		"Kph":295
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":80
+		,"SE":120
+		,"SW":90
+		,"NW":90
+		},
+		"50":{
+		"NE":50
+		,"SE":70
+		,"SW":60
+		,"NW":60
+		},
+		"64":{
+		"NE":20
+		,"SE":30
+		,"SW":25
+		,"NW":25
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":5,
+		"Category":"Tropical Cyclone",
+		"lat":-17.4,
+		"lon":178.7,
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "20","mday_padded": "20","yday": "50","epoch": "1455948000","pretty": "1:00 AM EST on February 20, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "20","mday_padded": "20","yday": "50","epoch": "1455948000","pretty": "6:00 AM GMT on February 20, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":155,
+		"Mph":180,
+		"Kph":285
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":85
+		,"SE":120
+		,"SW":110
+		,"NW":100
+		},
+		"50":{
+		"NE":45
+		,"SE":45
+		,"SW":50
+		,"NW":55
+		},
+		"64":{
+		"NE":30
+		,"SE":25
+		,"SW":40
+		,"NW":45
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":5,
+		"Category":"Tropical Cyclone",
+		"lat":-17.4,
+		"lon":177.0,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "20","mday_padded": "20","yday": "50","epoch": "1455969600","pretty": "7:00 AM EST on February 20, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "20","mday_padded": "20","yday": "50","epoch": "1455969600","pretty": "12:00 PM GMT on February 20, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":140,
+		"Mph":160,
+		"Kph":260
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":85
+		,"SE":120
+		,"SW":110
+		,"NW":100
+		},
+		"50":{
+		"NE":45
+		,"SE":45
+		,"SW":50
+		,"NW":55
+		},
+		"64":{
+		"NE":30
+		,"SE":25
+		,"SW":40
+		,"NW":45
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":4,
+		"Category":"Tropical Cyclone",
+		"lat":-17.4,
+		"lon":175.8,
+		"Time": {
+		"hour": "13","hour_padded": "13","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "20","mday_padded": "20","yday": "50","epoch": "1455991200","pretty": "1:00 PM EST on February 20, 2016","civil": "1:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"hour": "18","hour_padded": "18","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "20","mday_padded": "20","yday": "50","epoch": "1455991200","pretty": "6:00 PM GMT on February 20, 2016","civil": "6:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":130,
+		"Mph":150,
+		"Kph":240
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":85
+		,"SE":90
+		,"SW":110
+		,"NW":100
+		},
+		"50":{
+		"NE":45
+		,"SE":45
+		,"SW":50
+		,"NW":55
+		},
+		"64":{
+		"NE":30
+		,"SE":25
+		,"SW":40
+		,"NW":45
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":4,
+		"Category":"Tropical Cyclone",
+		"lat":-17.5,
+		"lon":174.7,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "20","mday_padded": "20","yday": "50","epoch": "1456012800","pretty": "7:00 PM EST on February 20, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "21","mday_padded": "21","yday": "51","epoch": "1456012800","pretty": "12:00 AM GMT on February 21, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":115,
+		"Mph":135,
+		"Kph":215
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":85
+		,"SE":90
+		,"SW":110
+		,"NW":100
+		},
+		"50":{
+		"NE":45
+		,"SE":45
+		,"SW":55
+		,"NW":50
+		},
+		"64":{
+		"NE":25
+		,"SE":25
+		,"SW":40
+		,"NW":35
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":4,
+		"Category":"Tropical Cyclone",
+		"lat":-17.6,
+		"lon":174.0,
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "21","mday_padded": "21","yday": "51","epoch": "1456034400","pretty": "1:00 AM EST on February 21, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "21","mday_padded": "21","yday": "51","epoch": "1456034400","pretty": "6:00 AM GMT on February 21, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":125,
+		"Mph":145,
+		"Kph":230
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":75
+		,"SE":100
+		,"SW":115
+		,"NW":80
+		},
+		"50":{
+		"NE":45
+		,"SE":50
+		,"SW":55
+		,"NW":40
+		},
+		"64":{
+		"NE":30
+		,"SE":35
+		,"SW":35
+		,"NW":30
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":4,
+		"Category":"Tropical Cyclone",
+		"lat":-17.6,
+		"lon":173.2,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "21","mday_padded": "21","yday": "51","epoch": "1456056000","pretty": "7:00 AM EST on February 21, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "21","mday_padded": "21","yday": "51","epoch": "1456056000","pretty": "12:00 PM GMT on February 21, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":115,
+		"Mph":135,
+		"Kph":215
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":75
+		,"SE":100
+		,"SW":115
+		,"NW":80
+		},
+		"50":{
+		"NE":45
+		,"SE":50
+		,"SW":55
+		,"NW":40
+		},
+		"64":{
+		"NE":30
+		,"SE":35
+		,"SW":35
+		,"NW":30
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-17.7,
+		"lon":172.7,
+		"Time": {
+		"hour": "13","hour_padded": "13","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "21","mday_padded": "21","yday": "51","epoch": "1456077600","pretty": "1:00 PM EST on February 21, 2016","civil": "1:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"hour": "18","hour_padded": "18","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "21","mday_padded": "21","yday": "51","epoch": "1456077600","pretty": "6:00 PM GMT on February 21, 2016","civil": "6:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":95,
+		"Mph":110,
+		"Kph":175
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":90
+		,"SE":115
+		,"SW":140
+		,"NW":100
+		},
+		"50":{
+		"NE":60
+		,"SE":40
+		,"SW":45
+		,"NW":40
+		},
+		"64":{
+		"NE":35
+		,"SE":30
+		,"SW":30
+		,"NW":30
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-17.8,
+		"lon":172.5,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "21","mday_padded": "21","yday": "51","epoch": "1456099200","pretty": "7:00 PM EST on February 21, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456099200","pretty": "12:00 AM GMT on February 22, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":95,
+		"Mph":110,
+		"Kph":175
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":90
+		,"SE":115
+		,"SW":140
+		,"NW":100
+		},
+		"50":{
+		"NE":50
+		,"SE":40
+		,"SW":60
+		,"NW":55
+		},
+		"64":{
+		"NE":30
+		,"SE":30
+		,"SW":30
+		,"NW":30
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-17.9,
+		"lon":172.3,
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456120800","pretty": "1:00 AM EST on February 22, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456120800","pretty": "6:00 AM GMT on February 22, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":90,
+		"Mph":105,
+		"Kph":165
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":90
+		,"SE":115
+		,"SW":140
+		,"NW":100
+		},
+		"50":{
+		"NE":50
+		,"SE":40
+		,"SW":60
+		,"NW":55
+		},
+		"64":{
+		"NE":30
+		,"SE":30
+		,"SW":30
+		,"NW":30
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-18.2,
+		"lon":172.3,
+		"Time": {
+		"hour": "7","hour_padded": "07","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456142400","pretty": "7:00 AM EST on February 22, 2016","civil": "7:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "12","hour_padded": "12","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456142400","pretty": "12:00 PM GMT on February 22, 2016","civil": "12:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":90,
+		"Mph":105,
+		"Kph":165
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":130
+		,"SE":160
+		,"SW":160
+		,"NW":95
+		},
+		"50":{
+		"NE":50
+		,"SE":40
+		,"SW":60
+		,"NW":55
+		},
+		"64":{
+		"NE":30
+		,"SE":30
+		,"SW":30
+		,"NW":30
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-18.7,
+		"lon":172.6,
+		"Time": {
+		"hour": "13","hour_padded": "13","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456164000","pretty": "1:00 PM EST on February 22, 2016","civil": "1:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"hour": "18","hour_padded": "18","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456164000","pretty": "6:00 PM GMT on February 22, 2016","civil": "6:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "PM"
+		},
+		"WindSpeed":{
+		"Kts":85,
+		"Mph":100,
+		"Kph":160
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":130
+		,"SE":160
+		,"SW":160
+		,"NW":95
+		},
+		"50":{
+		"NE":50
+		,"SE":40
+		,"SW":60
+		,"NW":55
+		},
+		"64":{
+		"NE":30
+		,"SE":30
+		,"SW":30
+		,"NW":30
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":2,
+		"Category":"Tropical Cyclone",
+		"lat":-19.2,
+		"lon":173.0,
+		"Time": {
+		"hour": "19","hour_padded": "19","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "22","mday_padded": "22","yday": "52","epoch": "1456185600","pretty": "7:00 PM EST on February 22, 2016","civil": "7:00 PM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "PM"
+		},
+		"TimeGMT": {
+		"year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "23","mday_padded": "23","yday": "53","epoch": "1456185600","pretty": "12:00 AM GMT on February 23, 2016","civil": "12:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":85,
+		"Mph":100,
+		"Kph":160
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":115
+		,"SE":140
+		,"SW":120
+		,"NW":130
+		},
+		"50":{
+		"NE":75
+		,"SE":60
+		,"SW":70
+		,"NW":75
+		},
+		"64":{
+		"NE":40
+		,"SE":40
+		,"SW":40
+		,"NW":40
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		},
+		{
+		"SaffirSimpsonCategory":1,
+		"Category":"Tropical Cyclone",
+		"lat":-19.8,
+		"lon":173.2,
+		"Time": {
+		"hour": "1","hour_padded": "01","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "23","mday_padded": "23","yday": "53","epoch": "1456207200","pretty": "1:00 AM EST on February 23, 2016","civil": "1:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"TimeGMT": {
+		"hour": "6","hour_padded": "06","year": "2016","mon": "2","mon_padded": "02","mon_abbrev": "Feb","mday": "23","mday_padded": "23","yday": "53","epoch": "1456207200","pretty": "6:00 AM GMT on February 23, 2016","civil": "6:00 AM","month_name": "February","month_name_abbrev": "Feb","weekday_name": "Tuesday","weekday_name_night": "Tuesday Night","weekday_name_abbrev": "Tue","weekday_name_unlang": "Tuesday","weekday_name_night_unlang": "Tuesday Night","ampm": "AM"
+		},
+		"WindSpeed":{
+		"Kts":75,
+		"Mph":85,
+		"Kph":140
+		},
+		"Pressure":{
+		"mb":null,
+		"inches":null
+		},
+		"WindQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the WindRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		,"quad_1":"NE"
+		,"quad_2":"SE"
+		,"quad_3":"SW"
+		,"quad_4":"NW"
+		},
+		"WindRadius":{
+		"34":{
+		"NE":100
+		,"SE":135
+		,"SW":120
+		,"NW":100
+		},
+		"50":{
+		"NE":60
+		,"SE":70
+		,"SW":55
+		,"NW":55
+		},
+		"64":{
+		"NE":35
+		,"SE":35
+		,"SW":35
+		,"NW":35
+		}
+		},
+		"SeaQuadrants":{
+		"comment":"Use these keys to determine what quadrants exist in the SeaRadius object they could be N S E W (representing quadrants rotated 45 degrees x) or NE SE SW NW (representing the typical + quadrant system)"
+		},
+		"SeaRadius":{
+		"12":{
+		}
+		}
+		}
+		]
+	}
+]
+}
