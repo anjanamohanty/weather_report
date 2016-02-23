@@ -6,6 +6,7 @@ class Alerts
   end
 
   def get_alerts
+    return "No current weather alerts" if (@response["alerts"].length == 0)
     alerts = "Weather Alerts:\n"
     @response["alerts"].each do |a|
       alerts += "#{a["description"]}: From #{a["date"]} to #{a["expires"]}\n"
