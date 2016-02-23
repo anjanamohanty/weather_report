@@ -17,5 +17,5 @@ class Conditions
   def weather
     @response["current_observation"]["weather"]
   end
-  
+
 end

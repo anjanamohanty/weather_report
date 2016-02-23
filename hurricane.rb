@@ -1,7 +1,7 @@
 require 'httparty'
 
 class Hurricane
-  def initialize(zip)
+  def initialize
     @response = HTTParty.get("http://api.wunderground.com/api/#{ENV["WUNDERGROUND_KEY"]}/currenthurricane/view.json")
   end
 

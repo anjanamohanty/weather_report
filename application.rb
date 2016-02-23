@@ -12,23 +12,26 @@ zip = gets.chomp
 c = Conditions.new(zip)
 
 puts "Your weather report for #{c.location}:"
-puts c.temperature
+puts "Temperature: #{c.temperature}"
 puts c.weather
 
 # 10 day forecast for that location.
 
 f = Forecast.new(zip)
 
+puts
 puts "Your 10 day forecast:"
-puts f.ten_day_forecast
+f.ten_day_forecast.each do |p|
+  puts "#{p.name}: #{p.text}"
+end
 
 # Sunrise and sunset times.
 
 a = Astronomy.new(zip)
 
 puts
-puts a.sunrise
-puts a.sunset
+puts "Sunrise: #{a.sunrise}"
+puts "Sunset: #{a.sunset}"
 
 # Any current weather alerts.
 
@@ -39,7 +42,7 @@ puts alerts.get_alerts
 
 # A list of all active hurricanes (anywhere).
 
-h = Hurricane.new(zip)
+h = Hurricane.new
 
 puts
 puts h.list

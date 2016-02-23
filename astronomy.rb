@@ -9,13 +9,13 @@ class Astronomy
   def sunrise
     hour = @response["sun_phase"]["sunrise"]["hour"].to_i
     minute = @response["sun_phase"]["sunrise"]["minute"]
-    "Sunrise: #{hour}:#{minute} AM"
+    "#{hour}:#{minute} AM"
   end
 
   def sunset
     hour = @response["sun_phase"]["sunset"]["hour"].to_i
     minute = @response["sun_phase"]["sunset"]["minute"]
-    "Sunset: #{hour-12}:#{minute} PM"
+    "#{hour-12}:#{minute} PM"
   end
 
 end
